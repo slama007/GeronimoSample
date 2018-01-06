@@ -1,0 +1,7 @@
+<resources>
+    <string name="add">+</string>
+    <string name="app_name">Geronimo - Sample</string>
+    <string name="details">Details</string>
+    <string name="remove">-</string>
+    <string name="share">Share</string>
+</resources>

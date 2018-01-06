@@ -1,0 +1,25 @@
+<resources>
+    <!-- padding -->
+    <dimen name="default_padding_small">2dp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="default_padding_double">32dp</dimen>
+    <dimen name="default_padding_half">8dp</dimen>
+    <dimen name="default_padding_quarter">4dp</dimen>
+
+    <!--  CardView   -->
+    <dimen name="default_cardCornerRadius_small">6dp</dimen>
+    <dimen name="default_cardElevation_small">6dp</dimen>
+
+
+    <!--text size-->
+    <dimen name="text_size_big">22sp</dimen>
+    <dimen name="text_size_medium">17sp</dimen>
+    <dimen name="text_size_normal">15sp</dimen>
+    <dimen name="text_size_small">13sp</dimen>
+    <dimen name="text_size_very_small">12sp</dimen>
+
+
+    <!-- Other View & image -->
+    <dimen name="view_height_very_small">1dp</dimen>
+    <dimen name="image_height_normal">180dp</dimen>
+</resources>
